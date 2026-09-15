@@ -25,3 +25,21 @@ Remaster the classic "tap-to-flap" game — the one where you tap to keep a smal
 ## 运行
 
 下载对应 HTML，用现代浏览器直接打开即可，无需安装依赖或构建。
+
+<!-- omgithub:readme:start -->
+## 🚀 Build, play, and remix with OMGithub
+
+**Remixed using [OMGithub.com](https://omgithub.com).**
+
+[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://omgithub.com/agents-dev/gpt6-astra-one-shot-games)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/agents-dev/gpt6-astra-one-shot-games)
+
+- 🎮 [Open the project](https://omgithub.com/agents-dev/gpt6-astra-one-shot-games).
+- ✨ [Remix this project](https://omgithub.com/?remix=agents-dev%2Fgpt6-astra-one-shot-games).
+- 💻 [Explore the source](https://github.com/agents-dev/gpt6-astra-one-shot-games).
+- 🛠️ [Check build runs](https://github.com/agents-dev/gpt6-astra-one-shot-games/actions).
+- 🐛 [Report an issue](https://github.com/agents-dev/gpt6-astra-one-shot-games/issues).
+- 👤 [Explore the creator's projects](https://omgithub.com/agents-dev).
+- 🌍 [Create with OMGithub](https://omgithub.com).
+- 🧬 [Explore the remix source](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/4178b08d569372a1492878d73c6018a90f564e5b).
+<!-- omgithub:readme:end -->
