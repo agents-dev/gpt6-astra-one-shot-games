@@ -41,7 +41,7 @@ try {renderer=new THREE.WebGLRenderer({canvas,antialias:true,alpha:true,powerPre
 renderer.setPixelRatio(Math.min(devicePixelRatio,1.75));
 renderer.outputColorSpace=THREE.SRGBColorSpace;
 renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.04;
-const scene=new THREE.Scene();scene.fog=new THREE.Fog(0xf1d7b5,33,85);
+const scene=new THREE.Scene();scene.background=new THREE.Color(0xffe600);scene.fog=new THREE.Fog(0xffe600,33,85);
 const camera=new THREE.OrthographicCamera(-8,8,5.5,-5.5,.1,160);
 camera.position.set(0,4.2,30);camera.lookAt(0,0,0);
 scene.add(new THREE.HemisphereLight(0xfff5e9,0x658c83,1.65));
